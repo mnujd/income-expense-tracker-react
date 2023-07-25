@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+  @apply mt-6 mb-3 bg-teal-700 text-white rounded-md px-8 py-4;
+}
+
+.pages {
+  @apply p-2;
+}
